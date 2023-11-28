@@ -1,0 +1,3 @@
+name: gorrion-unplugged-the-way-to-edge
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
